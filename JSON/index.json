@@ -1,0 +1,133 @@
+{
+    "jobTitles": [
+        "Aspiring Full Stack Web Developer"
+    ],
+    "personalInfo": {
+        "firstName": "Asheeka",
+        "lastName": "Samuels",
+        "age": 23,
+        "email": "samuelsasheeka133@gmail.com",
+        "mobile": "+27676235929",
+        "social media": {
+            "instagram": "https://www.instagram.com/asheekasamuels?igsh=MXVsdGpmYWgzOXhwYQ%3D%3D&utm_source=qr",
+            "facebook" : "https://www.facebook.com/profile.php?id=100080682013385&mibextid=AEUHqQ",
+            "github": "https://github.com/asheekasamuels",
+            "linkedin": "http://www.linkedin.com/in/asheeka-samuels"
+        },
+        "occupation": "Student",
+        "interests": [
+            "Cooking",
+            "Technology",
+            "Music"
+        ],
+        "location": {
+            "location": "Retreat, Cape Town",
+            "country": "South Africa"
+        },
+        "languages": [
+            "English",
+            "Afrikaans"
+        ]
+    },
+    "records": {
+        "education": [
+            {
+            "certificate": "Matric",
+            "school": "Steenberg High School",
+            "year": 2018
+        }],
+        "experiences": [
+            {
+                "title": "Sale Assistant",
+                "company": "Sportsmans Warehouse",
+                "yearStarted": 2019,
+                "yearEnded": 2021,
+                "description": "Assisting with queries and offering excellent customer service. Cleaning the store and maintaining outstanding store condition as well as visual merchandising standards"
+            },
+            {
+                "title": "Customer Advisor",
+                "company": "Sigma Connected",
+                "yearStarted": 2021,
+                "yearEnded": 2023,
+                "description": "Taking inbound calls and making outbound calls to customers within the uk. Listening to customers needs and providing solutions to customer queries. Liasing with team leader and junior operations manager."
+            },
+            {
+                "title": "Snr Associate Operations",
+                "company": "WNS Global Services",
+                "yearStarted": 2023,
+                "yearEnded": 2023,
+                "description": "Taking inbound calls and making outbound calls to customers within the usa. Creating endorsements for vehicles."
+            }
+        ],
+        "soft skills": [
+            "Attention to detail",
+            "Excellent communication skills",
+            "Honest, reliable and hardworking",
+            "Strong ability to work as part of a team",
+            "Effective in time management",
+            "Ability to work under pressure"
+        ],
+        "technical Skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "Figma",
+            "Vercel",
+            "GitHub"
+        ],
+        "testimonials": [
+            {
+                "author": "Kyle Brink",
+                "quote": "I always feel grateful when working with Asheeka. She really gives her 100% and always motivates me when I am feeling overwhelmed with certain tasks. She is a great team leader and communicates well with others. I am always excited when working with her because I know that the final product will be exemplary. She is not just a great teammate but also an amazing friend"
+            },
+            {
+                "author": "Aakifah Palekar",
+                "quote": "Asheeka is very hardworking and a creative individual. Asheeka has showed her skills when working with people and is very interactive."
+            },
+            {
+                "author": "Masoodah George",
+                "quote": "I wholeheartedly recommend Asheeka Samuels for employment. Her exceptional communication skills and her straight-forwardness makes her a valuable addition to any team."
+            },
+            {
+                "author": "Shakeel Davids",
+                "quote": "I had the pleasure of working with Asheeka and I must say, her dedication, professionalism, and expertise were truly impressive. She consistently went above and beyond to ensure the success of the project, and her innovative ideas and problem-solving skills were invaluable. I highly recommend Asheeka to anyone looking for a reliable and talented collaborator."
+            },
+            {
+                "author": "Anushqa Kandan",
+                "quote": "Asheeka is an extremely dedicated worker who always strives to do the best she can. She remains willing to attain new knowledge and works very well in a team. Asheeka has the ability to create a comfortable atmosphere for those around her and always goes the extra mile when necessary."
+            },
+            {
+                "author": "Caleb Okkers",
+                "quote": "Asheeka is a self motivated, hardworking individual who positively influences those around her. She is reliable and always willing to share her knowledge and skill to get everyone to her level of excellence. She was always an asset to the team and goes the extra mile to boost the morale with her peers. Asheeka is always friendly and maintains her professionalism with peers and clients."
+            }
+        ],
+        "projects": [
+            {
+                "title": " JS Calculator",
+                "description": "Developed a calculator",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "year": 2024
+            },
+            {
+                "title": "Portfolio",
+                "description": "Developed a portfolio displaying my information",
+                "technologies": ["HTML", "CSS", "Bootstrap"],
+                "year": 2024
+            },
+            {
+                "title": "To Do List",
+                "description": "Developed a to do list",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "year": 2024
+            },
+            {
+                "title": "JS Ecommerce Website",
+                "description": "Developed a store website with functionality",
+                "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+                "year": 2024
+            }
+
+        ]
+    }
+}
