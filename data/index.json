@@ -3,21 +3,20 @@
         "Aspiring Full Stack Web Developer"
         ],
         "about": [
-          {
-            "description": "Born 23rd April 2001, in the lovely city of Cape Town - I am a seasoned worker who has used my experience in the industry to develop a leadership brand that precedes myself. I am trusted by my peers, and senior leadership because of my consistent commitment to go beyond the expectation. My team engagement is admirable, and my greatest strength is my ability to build genuine trust relationships with all my peers. I have backbone and I am vocal about my opinions always in the best way possible. I am not afraid to put in the effort required to deliver, even if it means coming in early or on an off day not because I am unable to manage my time, but because I always insist on higher standards and knows what it takes to achieve those standards. I am also emotionally balanced and always approaches situations with an open mind. I always strive to operate in the best interest of the business while still managing to factor the human elements that contribute to every scenario."
-          },
-          {
-            "description": "I am both an introvert and an extrovert, love being in the kitchen trying new recipes, going on hikes and festivals. Just a few random things for you to know about me. Hope you enjoy my portfolio."
-          }
+            "Born 23rd April 2001, in the lovely city of Cape Town - I am a seasoned worker who has used my experience in the industry to develop a leadership brand that precedes myself. I am trusted by my peers, and senior leadership because of my consistent commitment to go beyond the expectation. My team engagement is admirable, and my greatest strength is my ability to build genuine trust relationships with all my peers. I have backbone and I am vocal about my opinions always in the best way possible. I am not afraid to put in the effort required to deliver, even if it means coming in early or on an off day not because I am unable to manage my time, but because I always insist on higher standards and knows what it takes to achieve those standards. I am also emotionally balanced and always approaches situations with an open mind. I always strive to operate in the best interest of the business while still managing to factor the human elements that contribute to every scenario.",
+            "I am both an introvert and an extrovert, love being in the kitchen trying new recipes, going on hikes and festivals. Just a few random things for you to know about me. Hope you enjoy my portfolio."
+
         ], 
         "resume": [
         {
+            "id": 1,
             "title": "Student",
             "institution": "Life Choices Academy",
             "yearStarted": 2024,
             "description": "Full Stack Web Development Course"
         },
         {
+            "id": 2,
             "title": "Snr Associate Operations",
             "company": "WNS Global Services",
             "yearStarted": 2023,
@@ -25,6 +24,7 @@
             "description": "Taking inbound calls and making outbound calls to customers within the usa. Creating endorsements for vehicles."
         },
         {
+            "id": 3,
             "title": "Customer Advisor",
             "company": "Sigma Connected",
             "yearStarted": 2021,
@@ -32,6 +32,7 @@
             "description": "Taking inbound calls and making outbound calls to customers within the uk. Listening to customers needs and providing solutions to customer queries. Liasing with team leader and junior operations manager."
         },
         {
+            "id": 4,
             "title": "Sale Assistant",
             "company": "Sportsmans Warehouse",
             "yearStarted": 2019,
@@ -39,6 +40,7 @@
             "description": "Assisting with queries and offering excellent customer service. Cleaning the store and maintaining outstanding store condition as well as visual merchandising standards"
         },
         {
+            "id": 5,
             "certificate": "Matric",
             "institution": "Steenberg High School",
             "year": 2018
@@ -46,60 +48,70 @@
         ],
         "skills": [
             {
+                "id": 1,
                 "image": "https://iili.io/J7mBwhl.png",
                 "title": "HTML 5",
                 "type" : "technical skill",
                 "experience": "Advanced"
             },
             {
+                "id": 2,
                 "image": "https://iili.io/J7mBiQV.png",
                 "title": "CSS",
                 "type" : "technical skill",
                 "experience": "Advanced"
             },
             {
+                "id": 3,
                 "image": "https://iili.io/J7mC9Tv.png",
                 "title": "Vue 3",
                 "type" : "technical skill",
                 "experience": "Advanced"
             },
             {
+                "id": 4,
                 "image": "https://iili.io/J7mCJQp.png",
                 "title": "JavaScript",
                 "type" : "technical skill",
                 "experience": "Advanced"
-            }
+            },
             {
+                "id": 5,
                 "image": "https://iili.io/JN1W6Bf.png",
                 "title": "Attention to Detail",
                 "type" : "soft skill",
                 "description": "Ability to be thorough and accurate in your work."
             },
             {
+                "id": 6,
                 "image": "https://iili.io/JN1kMiX.png",
                 "title": "Creativity",
                 "type" : "soft skill",
                 "description": "A broad term that involves skills from questioning to experimenting."
             },
             {
+                "id": 7,
                 "image": "https://iili.io/JN1kwJf.png",
                 "title": "Time Management",
                 "type" : "soft skill",
                 "description": "Using time wisely to work as efficiently as possible."
             },
             {
+                "id": 8,
                 "image": "https://iili.io/JN1ksOQ.png",
                 "title": "Adaptibility",
                 "type" : "soft skill",
                 "description": "My ability to embrace change and adjust to it with ease."
             },
             {
+                "id": 9,
                 "image": "https://iili.io/JN1kHtS.png",
                 "title": "Communication",
                 "type" : "soft skill",
                 "description": "the ability to convey or share ideas and feelings effectively."
             },
             {
+                "id": 10,
                 "image": "https://iili.io/JN1kuiF.png",
                 "title": "Interpersonal Skills",
                 "type" : "soft skill",
@@ -108,32 +120,39 @@
         ],
         "testimonials": [
             {
+                "id": 1,
                 "author": "Kyle Brink",
                 "quote": "I always feel grateful when working with Asheeka. She really gives her 100% and always motivates me when I am feeling overwhelmed with certain tasks. She is a great team leader and communicates well with others. I am always excited when working with her because I know that the final product will be exemplary. She is not just a great teammate but also an amazing friend"
             },
             {
+                "id": 2,
                 "author": "Aakifah Palekar",
                 "quote": "Asheeka is very hardworking and a creative individual. Asheeka has showed her skills when working with people and is very interactive."
             },
             {
+                "id": 3,
                 "author": "Masoodah George",
                 "quote": "I wholeheartedly recommend Asheeka Samuels for employment. Her exceptional communication skills and her straight-forwardness makes her a valuable addition to any team."
             },
             {
+                "id": 4,
                 "author": "Shakeel Davids",
                 "quote": "I had the pleasure of working with Asheeka and I must say, her dedication, professionalism, and expertise were truly impressive. She consistently went above and beyond to ensure the success of the project, and her innovative ideas and problem-solving skills were invaluable. I highly recommend Asheeka to anyone looking for a reliable and talented collaborator."
             },
             {
+                "id": 5,
                 "author": "Anushqa Kandan",
                 "quote": "Asheeka is an extremely dedicated worker who always strives to do the best she can. She remains willing to attain new knowledge and works very well in a team. Asheeka has the ability to create a comfortable atmosphere for those around her and always goes the extra mile when necessary."
             },
             {
+                "id": 6,
                 "author": "Caleb Okkers",
                 "quote": "Asheeka is a self motivated, hardworking individual who positively influences those around her. She is reliable and always willing to share her knowledge and skill to get everyone to her level of excellence. She was always an asset to the team and goes the extra mile to boost the morale with her peers. Asheeka is always friendly and maintains her professionalism with peers and clients."
             }
         ],
         "projects": [
             {
+                "id": 1,
                 "title": " JS Calculator",
                 "description": "Developed a calculator",
                 "technologies": ["HTML", "CSS", "JavaScript"],
@@ -141,13 +160,15 @@
                 "year": 2024
             },
             {
-                "title": "Portfolio",
+                "id": 2,
+                "title": "Bootstrap Portfolio",
                 "description": "Developed a portfolio displaying my information",
                 "technologies": ["HTML", "CSS", "Bootstrap"],
                 "links": "",
                 "year": 2024
             },
             {
+                "id": 3,
                 "title": "To Do List",
                 "description": "Developed a to do list",
                 "technologies": ["HTML", "CSS", "JavaScript"],
@@ -155,6 +176,7 @@
                 "year": 2024
             },
             {
+                "id": 4,
                 "title": "JS Ecommerce Website",
                 "description": "Developed a store website with functionality",
                 "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
