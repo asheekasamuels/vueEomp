@@ -1,41 +1,22 @@
-{
-    "jobTitles": [
+ { 
+       "jobTitle": [
         "Aspiring Full Stack Web Developer"
-    ],
-    "personalInfo": {
-        "firstName": "Asheeka",
-        "lastName": "Samuels",
-        "age": 23,
-        "email": "samuelsasheeka133@gmail.com",
-        "mobile": "+27676235929",
-        "social media": {
-            "instagram": "https://www.instagram.com/asheekasamuels?igsh=MXVsdGpmYWgzOXhwYQ%3D%3D&utm_source=qr",
-            "facebook" : "https://www.facebook.com/profile.php?id=100080682013385&mibextid=AEUHqQ",
-            "github": "https://github.com/asheekasamuels",
-            "linkedin": "http://www.linkedin.com/in/asheeka-samuels"
-        },
-        "occupation": "Student",
-        "interests": [
-            "Cooking",
-            "Technology",
-            "Music"
         ],
-        "location": {
-            "location": "Retreat, Cape Town",
-            "country": "South Africa"
-        },
-        "languages": [
-            "English",
-            "Afrikaans"
-        ]
-    },
-    "records": {
+        "about": [
+          {
+            "description": "Born 23rd April 2001, in the lovely city of Cape Town - I am a seasoned worker who has used my experience in the industry to develop a leadership brand that precedes myself. I am trusted by my peers, and senior leadership because of my consistent commitment to go beyond the expectation. My team engagement is admirable, and my greatest strength is my ability to build genuine trust relationships with all my peers. I have backbone and I am vocal about my opinions always in the best way possible. I am not afraid to put in the effort required to deliver, even if it means coming in early or on an off day not because I am unable to manage my time, but because I always insist on higher standards and knows what it takes to achieve those standards. I am also emotionally balanced and always approaches situations with an open mind. I always strive to operate in the best interest of the business while still managing to factor the human elements that contribute to every scenario."
+          },
+          {
+            "description": "I am both an introvert and an extrovert, love being in the kitchen trying new recipes, going on hikes and festivals. Just a few random things for you to know about me. Hope you enjoy my portfolio."
+          }
+        ], 
         "education": [
             {
             "certificate": "Matric",
             "school": "Steenberg High School",
             "year": 2018
-        }],
+        }
+        ],
         "experiences": [
             {
                 "title": "Sale Assistant",
@@ -59,22 +40,59 @@
                 "description": "Taking inbound calls and making outbound calls to customers within the usa. Creating endorsements for vehicles."
             }
         ],
-        "soft skills": [
-            "Attention to detail",
-            "Excellent communication skills",
-            "Honest, reliable and hardworking",
-            "Strong ability to work as part of a team",
-            "Effective in time management",
-            "Ability to work under pressure"
+        "skills": [
+            {
+                "image": "https://iili.io/J7mBwhl.png",
+                "title": "HTML 5",
+                "experience": "Advanced"
+            },
+            {
+                "image": "https://iili.io/J7mBiQV.png",
+                "title": "CSS",
+                "experience": "Advanced"
+            },
+            {
+                "image": "https://iili.io/J7mC9Tv.png",
+                "title": "Vue 3",
+                "experience": "Intermediate"
+            },
+            {
+                "image": "https://iili.io/J7mCJQp.png",
+                "title": "JavaScript",
+                "experience": "Intermediate"
+            }
         ],
-        "technical Skills": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Bootstrap",
-            "Figma",
-            "Vercel",
-            "GitHub"
+        "softSkills": [
+            {
+                "image": "https://iili.io/JN1W6Bf.png",
+                "title": "Attention to Detail",
+                "description": "Ability to be thorough and accurate in your work."
+            },
+            {
+                "image": "https://iili.io/JN1kMiX.png",
+                "title": "Creativity",
+                "description": "A broad term that involves skills from questioning to experimenting."
+            },
+            {
+                "image": "https://iili.io/JN1kwJf.png",
+                "title": "Time Management",
+                "description": "Using time wisely to work as efficiently as possible."
+            },
+            {
+                "image": "https://iili.io/JN1ksOQ.png",
+                "title": "Adaptibility",
+                "description": "My ability to embrace change and adjust to it with ease."
+            },
+            {
+                "image": "https://iili.io/JN1kHtS.png",
+                "title": "Communication",
+                "description": "the ability to convey or share ideas and feelings effectively."
+            },
+            {
+                "image": "https://iili.io/JN1kuiF.png",
+                "title": "Interpersonal Skills",
+                "description": "Abilty to interact and make a positive impression on others."
+            }
         ],
         "testimonials": [
             {
@@ -130,4 +148,3 @@
 
         ]
     }
-}
