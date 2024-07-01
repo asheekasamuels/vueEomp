@@ -10,87 +10,99 @@
             "description": "I am both an introvert and an extrovert, love being in the kitchen trying new recipes, going on hikes and festivals. Just a few random things for you to know about me. Hope you enjoy my portfolio."
           }
         ], 
-        "education": [
-            {
+        "resume": [
+        {
+            "title": "Student",
+            "institution": "Life Choices Academy",
+            "yearStarted": 2024,
+            "description": "Full Stack Web Development Course"
+        },
+        {
+            "title": "Snr Associate Operations",
+            "company": "WNS Global Services",
+            "yearStarted": 2023,
+            "yearEnded": 2023,
+            "description": "Taking inbound calls and making outbound calls to customers within the usa. Creating endorsements for vehicles."
+        },
+        {
+            "title": "Customer Advisor",
+            "company": "Sigma Connected",
+            "yearStarted": 2021,
+            "yearEnded": 2023,
+            "description": "Taking inbound calls and making outbound calls to customers within the uk. Listening to customers needs and providing solutions to customer queries. Liasing with team leader and junior operations manager."
+        },
+        {
+            "title": "Sale Assistant",
+            "company": "Sportsmans Warehouse",
+            "yearStarted": 2019,
+            "yearEnded": 2021,
+            "description": "Assisting with queries and offering excellent customer service. Cleaning the store and maintaining outstanding store condition as well as visual merchandising standards"
+        },
+        {
             "certificate": "Matric",
-            "school": "Steenberg High School",
+            "institution": "Steenberg High School",
             "year": 2018
         }
-        ],
-        "experiences": [
-            {
-                "title": "Sale Assistant",
-                "company": "Sportsmans Warehouse",
-                "yearStarted": 2019,
-                "yearEnded": 2021,
-                "description": "Assisting with queries and offering excellent customer service. Cleaning the store and maintaining outstanding store condition as well as visual merchandising standards"
-            },
-            {
-                "title": "Customer Advisor",
-                "company": "Sigma Connected",
-                "yearStarted": 2021,
-                "yearEnded": 2023,
-                "description": "Taking inbound calls and making outbound calls to customers within the uk. Listening to customers needs and providing solutions to customer queries. Liasing with team leader and junior operations manager."
-            },
-            {
-                "title": "Snr Associate Operations",
-                "company": "WNS Global Services",
-                "yearStarted": 2023,
-                "yearEnded": 2023,
-                "description": "Taking inbound calls and making outbound calls to customers within the usa. Creating endorsements for vehicles."
-            }
         ],
         "skills": [
             {
                 "image": "https://iili.io/J7mBwhl.png",
                 "title": "HTML 5",
+                "type" : "technical skill",
                 "experience": "Advanced"
             },
             {
                 "image": "https://iili.io/J7mBiQV.png",
                 "title": "CSS",
+                "type" : "technical skill",
                 "experience": "Advanced"
             },
             {
                 "image": "https://iili.io/J7mC9Tv.png",
                 "title": "Vue 3",
-                "experience": "Intermediate"
+                "type" : "technical skill",
+                "experience": "Advanced"
             },
             {
                 "image": "https://iili.io/J7mCJQp.png",
                 "title": "JavaScript",
-                "experience": "Intermediate"
+                "type" : "technical skill",
+                "experience": "Advanced"
             }
-        ],
-        "softSkills": [
             {
                 "image": "https://iili.io/JN1W6Bf.png",
                 "title": "Attention to Detail",
+                "type" : "soft skill",
                 "description": "Ability to be thorough and accurate in your work."
             },
             {
                 "image": "https://iili.io/JN1kMiX.png",
                 "title": "Creativity",
+                "type" : "soft skill",
                 "description": "A broad term that involves skills from questioning to experimenting."
             },
             {
                 "image": "https://iili.io/JN1kwJf.png",
                 "title": "Time Management",
+                "type" : "soft skill",
                 "description": "Using time wisely to work as efficiently as possible."
             },
             {
                 "image": "https://iili.io/JN1ksOQ.png",
                 "title": "Adaptibility",
+                "type" : "soft skill",
                 "description": "My ability to embrace change and adjust to it with ease."
             },
             {
                 "image": "https://iili.io/JN1kHtS.png",
                 "title": "Communication",
+                "type" : "soft skill",
                 "description": "the ability to convey or share ideas and feelings effectively."
             },
             {
                 "image": "https://iili.io/JN1kuiF.png",
                 "title": "Interpersonal Skills",
+                "type" : "soft skill",
                 "description": "Abilty to interact and make a positive impression on others."
             }
         ],
@@ -125,24 +137,28 @@
                 "title": " JS Calculator",
                 "description": "Developed a calculator",
                 "technologies": ["HTML", "CSS", "JavaScript"],
+                "links": "",
                 "year": 2024
             },
             {
                 "title": "Portfolio",
                 "description": "Developed a portfolio displaying my information",
                 "technologies": ["HTML", "CSS", "Bootstrap"],
+                "links": "",
                 "year": 2024
             },
             {
                 "title": "To Do List",
                 "description": "Developed a to do list",
                 "technologies": ["HTML", "CSS", "JavaScript"],
+                "links": "",
                 "year": 2024
             },
             {
                 "title": "JS Ecommerce Website",
                 "description": "Developed a store website with functionality",
                 "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+                "links": "",
                 "year": 2024
             }
 
